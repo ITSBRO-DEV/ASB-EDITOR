@@ -1,13 +1,7 @@
-# ASB-EDITOR
-***the new...*** 
+# ASB EDITOR!
 
-**.asb editor!!!**
-**.asb is a .py but custom!**
+ **_the all in one python editor!_**
+ **_supports all coding file types!_**
 
-
-**by itsBRO**
-
-
-
-
-***DOWNLOAD NOW!***
+ **DOWNLOAD NOW!**
+ 
